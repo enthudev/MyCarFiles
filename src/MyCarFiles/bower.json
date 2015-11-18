@@ -1,0 +1,8 @@
+{
+  "name": "ASP.NET",
+  "private": true,
+  "dependencies": {
+    "hammer.js": "2.0.4",
+    "angularjs": "~1.4.7"
+  }
+}

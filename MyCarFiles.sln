@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{68DC5953-73E3-4571-87F8-572E6BBE6658}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6AD67427-2413-47D9-8FF9-5D052D55797E}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+		NuGet.Config = NuGet.Config
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "MyCarFiles", "src\MyCarFiles\MyCarFiles.xproj", "{EAB268CC-F290-41DC-A055-1082A960EE18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAB268CC-F290-41DC-A055-1082A960EE18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAB268CC-F290-41DC-A055-1082A960EE18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAB268CC-F290-41DC-A055-1082A960EE18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAB268CC-F290-41DC-A055-1082A960EE18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EAB268CC-F290-41DC-A055-1082A960EE18} = {68DC5953-73E3-4571-87F8-572E6BBE6658}
+	EndGlobalSection
+EndGlobal

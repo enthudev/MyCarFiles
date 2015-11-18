@@ -1,0 +1,21 @@
+{
+  "name": "ASP.NET",
+  "version": "0.0.0",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "resolve": "^1.1.6",
+    "glob": "5.0.15",
+    "lodash": "3.10.1",
+    "indx": "^0.2.3",
+    "fobject": "^0.0.3",
+    "when": "^3.7.4",
+    "gulp-concat": "2.5.2",
+    "gulp-cssmin": "0.1.7",
+    "gulp-uglify": "1.2.0",
+    "gulp-git": "~1.6.0",
+    "gulp-sass": "^2.1.0",
+    "gulp-less": "^3.0.3",
+    "gulp-rename": "^1.2.2",
+    "rimraf": "2.2.8"
+  }
+}
